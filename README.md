@@ -1,4 +1,7 @@
 
+# Start the thread
+thread.start()
+    </code></pre>
     <h2>Running the Python Application</h2>
     <p>
         To run the Python application, follow these steps:
